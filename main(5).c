@@ -9,4 +9,6 @@ int main()
     celcius = (Fahernhint - 32) * 5/9;
     printf("\nTemp in fahernhint: %d",Fahernhint);
     printf("\nTemp in celcius:%d",celcius);
+
+    
 }
